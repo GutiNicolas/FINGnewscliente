@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="appClientModule"/>
+	<classpathentry kind="lib" path="/Users/guti/Documents/practico-ejb.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 16.0 Runtime"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Homejdk1.8"/>
+	<classpathentry kind="lib" path="/Users/guti/Downloads/wildfly-16.0.0.Final/bin/client/jboss-client.jar"/>
+	<classpathentry kind="lib" path="/Users/guti/Downloads/slf4j-1.7.26/slf4j-nop-1.7.26.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
